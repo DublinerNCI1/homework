@@ -1,0 +1,5 @@
+C:\Users\cezar\MotorBid\MotorBid\MotorBid\bin\MotorBid.dll
+C:\Users\cezar\MotorBid\MotorBid\MotorBid\bin\MotorBid.pdb
+C:\Users\cezar\MotorBid\MotorBid\MotorBid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cezar\MotorBid\MotorBid\MotorBid\obj\Debug\MotorBid.dll
+C:\Users\cezar\MotorBid\MotorBid\MotorBid\obj\Debug\MotorBid.pdb
